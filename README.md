@@ -9,3 +9,10 @@ Objetivos específicos de la práctica:
     -Comparar tecnologías: Evaluar qué tipo de algoritmo (vecinos cercanos, redes neuronales o árboles de decisión) es más fiable para este tipo de datos de salud que tienen "reglas" complejas y umbrales críticos.
 
     -Asegurar la fiabilidad: Conseguir un modelo que no solo sea preciso con los datos que ya tenemos, sino que sea capaz de generalizar
+
+
+    Columnas reemplazables:
+
+    -lifestyle_category
+    -consistency_score
+    
